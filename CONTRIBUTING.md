@@ -1,0 +1,2 @@
+# Contributing
+To contribute to the document or to raise a point of contention or correction, the best way is to raise a github issue on this repository. The issues will be closely monitored and responded to by the Living Guidance team, with resulting changes to the document, should they be merited, being released periodically.
